@@ -4,20 +4,6 @@ A self-contained downloader for recordings hosted on the Impartus platform
 (used by Manipal University and a few other Indian institutions). Ships as a
 CLI for power users and a tiny local web GUI for one-click bulk downloads.
 
-```
-  ┌─────────────────────────────────────┐
-  │  📚 Impartus Downloader             │
-  │  ────────────────────────────────   │
-  │  Microwave Engineering       (42)   │
-  │  ────────────────────────────────   │
-  │  ☐ 🎙️ 12/04  Antennas  · Prof…  ⬇  │
-  │  ☐ 🎙️ 11/04  Waveguides · Prof… ✓  │
-  │  ☐   🎙️ 10/04  Impedance  · …     │  ← greyed mic = no audio
-  │  ────────────────────────────────   │
-  │  [ Select all ]  [ ⬇ Download 2 ]  │
-  └─────────────────────────────────────┘
-```
-
 ## Features
 
 - **One-shot sign-in** with username + password. The bearer JWT is cached
