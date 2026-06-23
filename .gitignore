@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Editor
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Project artifacts
+*.mp4
+*.ts
+*.mkv
+.work_*/
+impartus_downloads/
+impartus_gui_out/
+*.manifest.json
+
+# Cached session token (NEVER commit this — it's a bearer JWT)
+session.json
